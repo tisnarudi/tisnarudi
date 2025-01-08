@@ -4,7 +4,7 @@
 
 ## Tentang Saya
 
-Tahun 2003 mulai belajar sendiri membuat website. Saya lebih suka membuat website statik daripada menggunakan CSS framework dan / atau platform. Selain koding, saya juga mempelajari Search Engine Optimization (SEO), Digital Marketing dan Sita Audit.
+Tahun 2003 mulai belajar sendiri membuat website. Selain koding, saya juga mempelajari Search Engine Optimization (SEO), Digital Marketing dan Sita Audit.
 
 
 ## Tech Stack

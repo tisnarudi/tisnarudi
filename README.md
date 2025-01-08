@@ -1,6 +1,6 @@
 # Assalamu’alaikum. Saya Tisna Rudi
 
-<img src="KISS-Principle.png" alt="KISS principle">
+![KISS principle](KISS-Principle.png)
 
 
 ## Tentang Saya
@@ -30,18 +30,3 @@ HTML, CSS, Bootstrap, js, PHP, MySql, SEO, Digital Marketing, Site Audit, Photog
 - Cara menghubungi saya: Klik link Contact di profil Gravatar saya. [Gravatar](https://gravatar.com/bigloveadagio) profile.
 
 Terima kasih sudah mampir!
-
-<!--
-**tisnarudi/tisnarudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

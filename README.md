@@ -1,7 +1,6 @@
 # Assalamu’alaikum. Saya Tisna Rudi
 
-![KISS principle](KISS-Principle.png)
-
+![KISS principle](https://github.com/tisnarudi/tisnarudi/blob/main/KISS-principle.png)
 
 ## Tentang Saya
 

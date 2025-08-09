@@ -25,7 +25,6 @@ HTML, CSS, Bootstrap, js, PHP, MySql, SEO, Digital Marketing, Site Audit, Photog
 
 ## Menghubungi Saya
 
-- Terhubung dengan saya di X (Twitter) [X](https://x.com/trisnya11)
 - Cara menghubungi saya: Klik link Contact di profil Gravatar saya. [Gravatar](https://gravatar.com/bigloveadagio) profile.
 
 Terima kasih sudah mampir!

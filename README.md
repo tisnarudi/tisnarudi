@@ -30,6 +30,8 @@ HTML, CSS, Bootstrap, js, PHP, MySql, SEO, Digital Marketing, Site Audit, Photog
 
 - Website maintenance, content creator: article writing, info graphic for website. Photography for social media and website.
 
+  - Kursus membuat website statis dengan HTML, CSS, dan JavaScript praktis.
+
 - Currently Exploring full stack digital marketing.
 
 

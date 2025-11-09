@@ -2,6 +2,16 @@
 
 ![KISS principle](https://github.com/tisnarudi/tisnarudi/blob/main/KISS-principle.png)
 
+> Just because we invented a powerful technology doesn’t
+>  mean we have to become its slaves.
+
+(Sherry Turkle)
+
+Transformasi digital tidak melulu tentang teknologi dan strategi digitalisasi bisnis, tetapi juga tentang mindset dan kultur. Jika kultur masyarakatnya menolak (contoh misalnya suku baduy dalam), jaringan internet 5G, platform marketplace, dan fintech yang memerlukan biaya tidak sedikit menjadi tidak ada gunanya.
+
+
+Barangkali karena itulah kenapa produk teknologi digital dirancang menggunakan prinsip Habit Forming Product (membentuk kebiasaan melalui siklus trigger, action, reward, investment, dan kembali ke trigger) sehingga penggunanya lama-kelamaan menjadi ketagihan.
+
 ## Tentang Saya
 
 Tahun 2003 mulai belajar sendiri membuat website. Selain koding, saya juga mempelajari Search Engine Optimization (SEO), Digital Marketing dan Sita Audit.

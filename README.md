@@ -1,6 +1,6 @@
 # Assalamu’alaikum. Saya Tisna Rudi
 
-![KISS principle](https://github.com/tisnarudi/tisnarudi/blob/main/KISS-principle.png)
+![Digital Transformation](https://github.com/tisnarudi/tisnarudi/blob/main/digital-transformation.jpg)
 
 > Just because we invented a powerful technology doesn’t
 >  mean we have to become its slaves.
